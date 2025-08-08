@@ -36,7 +36,7 @@ tests/
 npx create-ex-project <project-name>
 ```
 
-Executing the package will automatically install all dependencies.
+Installing the package will automatically install all dependencies.
 
 ---
 
