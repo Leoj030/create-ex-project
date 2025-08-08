@@ -1,0 +1,37 @@
+{
+  "name": "create-ex-project",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "create-ex-project": "./bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "template"
+  ],
+  "description": "A simple, modern Express.js project boilerplate using TypeScript, Jest, Babel, and best practices for rapid backend development and easy integration.",
+  "homepage": "https://github.com/Leoj030/create-express-ts-project#readme",
+  "bugs": {
+    "url": "https://github.com/Leoj030/create-express-ts-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leoj030/create-express-ts-project.git"
+  },
+  "keywords": [
+    "cli",
+    "jest",
+    "node",
+    "babel",
+    "express",
+    "javascript",
+    "typescript"
+  ],
+  "author": "leoj",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.5.0",
+    "ora": "^8.2.0",
+    "inquirer": "^9.2.23"
+  }
+}
