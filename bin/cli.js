@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { exec } from 'child_process';
 import { promisify } from 'util';
 import { join, resolve, dirname } from 'path';
