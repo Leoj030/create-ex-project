@@ -1,4 +1,4 @@
-# 🚀 Create Express Project
+# 🚀 Generate Express App
 
 Express.js boilerplate with a clean, layered architecture designed for rapid backend development. Built with flexibility in mind, supporting both **TypeScript** and **JavaScript** to match your preferences.
 
@@ -54,14 +54,17 @@ tests/
 ### 1. Creating the project
 
 **This creates the directory and install the package**
+
 ```sh
-npx ex-init-app <project-name>
+npx gen-ex-app <project-name>
 ```
+
 or
 
 **This uses the current directory and install the package**
+
 ```sh
-npx ex-init-app .
+npx gen-ex-app .
 ```
 
 ---
