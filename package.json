@@ -1,5 +1,5 @@
 {
-  "name": "init-express-app",
+  "name": "express-app",
   "version": "0.1.0",
   "type": "module",
   "bin": {
@@ -10,13 +10,13 @@
     "templates"
   ],
   "description": "Express.js boilerplate with a clean, layered architecture designed for rapid backend development. Built with flexibility in mind, supporting both TypeScript and JavaScript to match your preferences.",
-  "homepage": "https://github.com/Leoj030/init-ex-app#readme",
+  "homepage": "https://github.com/Leoj030/express-app#readme",
   "bugs": {
-    "url": "https://github.com/Leoj030/init-ex-app/issues"
+    "url": "https://github.com/Leoj030/express-app/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Leoj030/init-ex-app.git"
+    "url": "git+https://github.com/Leoj030/express-app.git"
   },
   "keywords": [
     "cli",
