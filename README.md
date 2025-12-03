@@ -55,13 +55,13 @@ tests/
 
 **This creates the directory and install the package**
 ```sh
-npx init-ex-app <project-name>
+npx ex-init-app <project-name>
 ```
 or
 
 **This uses the current directory and install the package**
 ```sh
-npx init-ex-app .
+npx ex-init-app .
 ```
 
 ---
