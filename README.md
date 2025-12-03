@@ -36,9 +36,10 @@ Express.js boilerplate with a clean, layered architecture designed for rapid bac
 
 ```sh
 src/
-  ├── index             # Application entry point
+  ├── index                    # Application entry point
   ├── config/                  # Configuration layer
   │   └── limiter.config       # Rate limiting configuration
+  │   └── cors.config          # CORS configuration
   ├── controllers/             # Controller layer
   │   └── getter.controller    # Example controller
   └── routes/                  # Routing layer
