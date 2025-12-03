@@ -1,6 +1,6 @@
 {
   "name": "init-ex-app",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "type": "module",
   "bin": {
     "init-ex-app": "./bin/cli.js"
@@ -10,13 +10,13 @@
     "template"
   ],
   "description": "Express.js boilerplate with a clean, layered architecture designed for rapid backend development. Built with flexibility in mind, supporting both TypeScript and JavaScript to match your preferences.",
-  "homepage": "https://github.com/Leoj030/create-ex-project#readme",
+  "homepage": "https://github.com/Leoj030/init-ex-app#readme",
   "bugs": {
-    "url": "https://github.com/Leoj030/create-ex-project/issues"
+    "url": "https://github.com/Leoj030/init-ex-app/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Leoj030/create-ex-project.git"
+    "url": "git+https://github.com/Leoj030/init-ex-app.git"
   },
   "keywords": [
     "cli",
