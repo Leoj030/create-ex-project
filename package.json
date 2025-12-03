@@ -9,7 +9,7 @@
     "bin",
     "template"
   ],
-  "description": "A simple, modern Express.js project boilerplate using Jest, Babel, and best practices for rapid backend development and easy integration, and can also be used with Typescript or just Javascript.",
+  "description": "Express.js boilerplate with a clean, layered architecture designed for rapid backend development. Built with flexibility in mind, supporting both TypeScript and JavaScript to match your preferences.",
   "homepage": "https://github.com/Leoj030/create-ex-project#readme",
   "bugs": {
     "url": "https://github.com/Leoj030/create-ex-project/issues"
