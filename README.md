@@ -51,13 +51,18 @@ tests/
 
 ## 🏁 Getting Started
 
-### 1. Install the package
+### 1. Creating the project
 
+**This creates the directory and install the package**
 ```sh
-npx create-ex-project <project-name>
+npx init-ex-app <project-name>
 ```
+or
 
-Executing the package will automatically install all dependencies.
+**This uses the current directory and install the package**
+```sh
+npx init-ex-app .
+```
 
 ---
 

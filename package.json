@@ -1,13 +1,13 @@
 {
-  "name": "init-ex-app",
-  "version": "0.1.3",
+  "name": "init-express-app",
+  "version": "0.1.0",
   "type": "module",
   "bin": {
     "init-ex-app": "./bin/cli.js"
   },
   "files": [
     "bin",
-    "template"
+    "templates"
   ],
   "description": "Express.js boilerplate with a clean, layered architecture designed for rapid backend development. Built with flexibility in mind, supporting both TypeScript and JavaScript to match your preferences.",
   "homepage": "https://github.com/Leoj030/init-ex-app#readme",
